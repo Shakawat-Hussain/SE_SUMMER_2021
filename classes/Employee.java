@@ -14,5 +14,6 @@ public class Employee
 	public String getEmpId(){return empId;} 
 	public String getName(){return name;}
 	public double getSalary(){return salary;} 
+	public void nothing(string not){}
 }
-//checking second commit
+
