@@ -15,3 +15,4 @@ public class Employee
 	public String getName(){return name;}
 	public double getSalary(){return salary;} 
 }
+//checking second commit
